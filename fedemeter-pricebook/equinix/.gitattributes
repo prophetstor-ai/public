@@ -1,1 +1,1 @@
-pricebook_ondemand_v4.5.20210325T020209Z.zip filter=lfs diff=lfs merge=lfs -text
+pricebook_ondemand_*.zip filter=lfs diff=lfs merge=lfs -text
