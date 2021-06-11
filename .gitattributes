@@ -1,3 +1,4 @@
 fedemeter-pricebook/v4.5/pricebook_ondemand_*.zip filter=lfs diff=lfs merge=lfs -text
 fedemeter-pricebook/v4.5/pricebook__*.zip filter=lfs diff=lfs merge=lfs -text
 fedemeter-pricebook/v4.6/pricebook_ondemand_*.zip filter=lfs diff=lfs merge=lfs -text
+fedemeter-pricebook/v4.7/pricebook_ondemand_*.zip filter=lfs diff=lfs merge=lfs -text
