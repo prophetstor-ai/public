@@ -1,0 +1,5 @@
+[filter "lfs"]
+	# Skips automatic downloading of LFS objects on clone or pull. 
+	# You can manually execute command "git lfs pull" to checkout lfs objects
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
